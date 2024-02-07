@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/WebApplication_calcul/nombre_premier?wsdl" uri="xml-resources/web-service-references/nombre_premier_1/wsdl/localhost_8080/WebApplication_calcul/nombre_premier.wsdl"/>
+    <system systemId="http://localhost:8080/WebApplication_calcul/nombre_premier?xsd=1" uri="xml-resources/web-service-references/nombre_premier_1/wsdl/localhost_8080/WebApplication_calcul/nombre_premier.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/WebApplication_calcul/decomposer_en_facteurs_premiers?wsdl" uri="xml-resources/web-service-references/decomposer_en_facteurs_premiers/wsdl/localhost_8080/WebApplication_calcul/decomposer_en_facteurs_premiers.wsdl"/>
+    <system systemId="http://localhost:8080/WebApplication_calcul/decomposer_en_facteurs_premiers?xsd=1" uri="xml-resources/web-service-references/decomposer_en_facteurs_premiers/wsdl/localhost_8080/WebApplication_calcul/decomposer_en_facteurs_premiers.xsd_1.xsd"/>
+</catalog>
